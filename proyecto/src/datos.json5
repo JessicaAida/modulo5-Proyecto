@@ -1,0 +1,9 @@
+{
+  // comment
+  title: 'Datos personales del alumno',
+  owner: {
+    name: 'Jessica Aida Gallardo García',
+    email: 'aida.ggallardo@gmail.com',
+    module: 'Diplomado Front End - Módulo 5 - Webpack'
+  },
+}

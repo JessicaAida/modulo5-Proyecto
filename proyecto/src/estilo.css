@@ -1,0 +1,26 @@
+.hola {
+    color: orange;
+}
+
+#piePagina {
+    color: dimgray;
+    padding: 60px;
+    background-color: rgb(218, 187, 191);
+}
+
+#tabladato {
+    border-collapse: collapse;
+    border-spacing: 20px;
+    text-align: center;
+    margin: 30px;
+    width: 90%;
+}
+
+#titulo {
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: rgb(95, 94, 94);
+    text-align: center;
+    margin-left: 20px;
+}
